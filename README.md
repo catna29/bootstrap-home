@@ -1,1 +1,1 @@
-# bootstrap-home
+# this is my project to study bootstrap
